@@ -26,6 +26,7 @@ This project analyzes sales performance within a furniture business using Micros
 
 ## 📷 Dashboard Preview
 https://github.com/ceciliadominic/furniture-sales-dashboard/blob/main/dashboard.png
+
 Click the link above
 
 
